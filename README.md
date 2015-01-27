@@ -3,7 +3,7 @@ Python codes for DualDAC AC voltage source.
 
 See 
 
-* [Example](http://nbviewer.ipython.org/urls/raw.github.com/AivonOy/dualDAC/blob/master/iPythonNotebooks/DualDAC example.ipynb)
+* [Example](http://nbviewer.ipython.org/github/AivonOy/dualDAC/blob/master/iPythonNotebooks/DualDAC%20example.ipynb)
 
 
 ###Requirements
